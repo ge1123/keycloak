@@ -1,0 +1,11 @@
+{
+    "schema_version": 1,
+    "commit": "e73344070e0bb0dc57dcddb4ed79aff4854fa39a",
+    "indexed_at": "2026-06-25T01:10:02Z",
+    "project": "Users-wuchuni-Desktop-system_design-keycloak",
+    "nodes": 178065,
+    "edges": 877826,
+    "original_size": 715784192,
+    "compressed_size": 88474460,
+    "compression_level": 3
+}
